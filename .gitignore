@@ -1,0 +1,15 @@
+/_data
+/.idea
+/.ipynb_checkpoints
+/.vscode
+/venv
+/designer.exe - Shortcut.lnk
+/convert.bat
+/deposit.txt
+/max_loses.txt
+# don't use pyqt yet
+/design.py
+/design.ui
+/main.py 
+# and jupyter
+/Statistic_venv.ipynb
